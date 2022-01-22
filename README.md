@@ -8,4 +8,9 @@ Utilizamos los datos abiertos de la pagina del gobierno federal sobre COVID-19, 
  - Graficamos la tasa de mortalidad en la Ciudad de Mexico, idenficando el dia uno de vacunación, buscando una tendencia de eficacia de las vacunas.
 
 
- - Graficamos los casos Positivos de Covid-19 desde el inicio en la pandemia.   
+ - Graficamos la columna de CLASIFICACION_FINAL desde el inicio en la pandemia, indenticando de forma individual los resultaso y al final un grafico de todos los resultados.
+
+
+ - 
+
+  
